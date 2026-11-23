@@ -1,16 +1,19 @@
-## Hi there 👋
+# Sam Carter — Software Developer
 
-<!--
-**samcarterworks/samcarterworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance software development: I build, fix, and ship web software.
 
-Here are some ideas to get you started:
+**What I do**
+- Web apps & websites — HTML/CSS/JavaScript, from landing pages to full small apps
+- Firebase backends — Auth, Firestore, and security rules done right
+- API integrations — payments, maps, data feeds, AI services
+- Automation & scraping scripts — Python / JavaScript
+- Bug fixing & debugging — find it, fix it, explain it
+- Code reviews & SEO/speed audits — written, prioritized findings
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**How it works**
+Send a message with what you need. You get a fixed price before work starts, delivery on the agreed date, and a plain-English summary of what was done.
+
+**Find me**
+- Email: samcarterworks@proton.me
+- Microlancer: https://microlancer.io/service/view/2426
+- Frantic: https://gofrantic.com/a/agent-7b1c91
